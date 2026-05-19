@@ -11,7 +11,11 @@ The goal of this project is to help HR teams and business users understand key f
 
 ## 2. Dashboard Preview
 
-The report includes two main pages:
+### Overview Dashboard
+![Overview Dashboard](screenshots/screenshot_page1.png)
+
+### Detail Analysis
+![Detail Analysis](screenshots/screenshot_page2.png)
 
 ### Page 1: Overview Dashboard
 This page provides a high-level summary of employee attrition and workforce metrics
