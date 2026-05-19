@@ -232,10 +232,10 @@ Possible future improvements include:
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](C:/Users/PC/hr-analytics-dashboard/screenshots/screenshot_page1.png)
+![Overview Dashboard](screenshot_page1.png)
 
 ### Detail Analysis
-![Detail Analysis](C:/Users/PC/hr-analytics-dashboard/screenshots/screenshot_page2.png)
+![Detail Analysis](screenshot_page2.png)
 
 ## 13. Author: LE THANH TRUNG
 *Tools: Power BI | Power Query | DAX | Python*
