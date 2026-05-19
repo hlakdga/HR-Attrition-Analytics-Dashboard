@@ -9,13 +9,13 @@ The goal of this project is to help HR teams and business users understand key f
 
 ---
 
-## 2. Dashboard Preview
+## Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/screenshot_page1.png)
+![Overview Dashboard](screenshot_page1.png)
 
 ### Detail Analysis
-![Detail Analysis](screenshots/screenshot_page2.png)
+![Detail Analysis](screenshot_page2.png)
 
 ### Page 1: Overview Dashboard
 This page provides a high-level summary of employee attrition and workforce metrics
@@ -232,14 +232,6 @@ Possible future improvements include:
 - Publishing the dashboard to Power BI Service
 
 ---
-
-## Dashboard Preview
-
-### Overview Dashboard
-![Overview Dashboard](screenshot_page1.png)
-
-### Detail Analysis
-![Detail Analysis](screenshot_page2.png)
 
 ## 13. Author: LE THANH TRUNG
 *Tools: Power BI | Power Query | DAX | Python*
